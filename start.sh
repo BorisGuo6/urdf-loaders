@@ -1,0 +1,1 @@
+http-server ./javascript/example/index.html -p 8081 --ssl --cert cert.pem --key key.pem
